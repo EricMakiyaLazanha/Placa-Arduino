@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=BAT1 NewDesignator=BAT
+Change Component Designator: OldDesignator=GND1 NewDesignator=GND
+Added Pin To Net: NetName=Trig3 Pin=TB1-5
+Added Pin To Net: NetName=Echo3 Pin=TB1-6
+Added Pin To Net: NetName=Trig2 Pin=TB1-7
+Added Pin To Net: NetName=Echo2 Pin=TB1-10
+Added Pin To Net: NetName=Trig1 Pin=TB1-11
+Added Pin To Net: NetName=Echo1 Pin=TB1-12
+Added Room: Name=Controle
+Added Room: Name=Driver1
+Added Room: Name=FontesLineares

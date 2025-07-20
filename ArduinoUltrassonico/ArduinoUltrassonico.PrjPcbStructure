@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Controle.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Controle.SchDoc|Designator=FontesLineares|SchDesignator=FontesLineares|FileName=Driver2.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Driver2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Controle.SchDoc|Designator=FontesLineares|SchDesignator=FontesLineares|FileName=Driver1.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Driver1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Controle.SchDoc|Designator=FontesLineares|SchDesignator=FontesLineares|FileName=FontesLineares.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=FontesLineares.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,385 @@
+*************************************************************
+FileName = ArduinoUltrassonico.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : ArduinoUltrassonico.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ArduinoUltrassonico.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ArduinoUltrassonico.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ArduinoUltrassonico.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ArduinoUltrassonico.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ArduinoUltrassonico.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D14
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ArduinoUltrassonico.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ArduinoUltrassonico.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ArduinoUltrassonico.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : BoardOutLine
+      File : ArduinoUltrassonico.GM19
+
+    Adding Layer      : BoardOutLine
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ArduinoUltrassonico.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D31
+    D32
+    D33
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 11
+      File : ArduinoUltrassonico.GM11
+
+    Adding Layer      : Mechanical 11
+
+
+Used DCodes :
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : ArduinoUltrassonico.GM12
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : ArduinoUltrassonico.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : ArduinoUltrassonico.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ArduinoUltrassonico.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D18
+    D19
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ArduinoUltrassonico.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D28
+    D29
+    D30
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ArduinoUltrassonico.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ArduinoUltrassonico.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D13
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : ArduinoUltrassonico.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ArduinoUltrassonico.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ArduinoUltrassonico.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D70
+*************************************************************
+

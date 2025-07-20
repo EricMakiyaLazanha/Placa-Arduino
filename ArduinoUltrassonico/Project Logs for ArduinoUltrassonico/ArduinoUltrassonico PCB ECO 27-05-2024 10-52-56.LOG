@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=LED0 Pin=TB1-19
+Removed Pin From Net: NetName=LED1 Pin=TB1-20
+Removed Pin From Net: NetName=LED2 Pin=TB1-21
+Removed Pin From Net: NetName=LED3 Pin=TB1-22
+Removed Pin From Net: NetName=LED4 Pin=TB1-23
+Removed Pin From Net: NetName=MedidorBateria Pin=TB1-24
+Added Pin To Net: NetName=MedidorBateria Pin=TB1-19
+Added Pin To Net: NetName=LED0 Pin=TB1-20
+Added Pin To Net: NetName=LED1 Pin=TB1-21
+Added Pin To Net: NetName=LED2 Pin=TB1-22
+Added Pin To Net: NetName=LED3 Pin=TB1-23
+Added Pin To Net: NetName=LED4 Pin=TB1-24
+Added Room: Name=Controle
+Added Room: Name=Driver1
+Added Room: Name=Driver2
+Added Room: Name=FontesLineares
